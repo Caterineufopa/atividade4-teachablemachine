@@ -1,9 +1,5 @@
-# atividade4-teachablemachine&classificador_anaconda
+# Descrição do Projeto:
 
-##Descrição do Projeto:
-texto...
-##Instruções de Uso:
-texto...
-##Créditos:
-texto...
+
+
 
