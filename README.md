@@ -28,6 +28,6 @@ Aplicações incluem identificação de objetos, lixo reciclável, gestos, entre
 - Curso: Sistemas de Informação
 - Disciplina: Processamento de Imagens
 - Docente: Danilo Azevedo Figueiredo: <http://lattes.cnpq.br/9122429239132988>
-- Ferramentas Utilizadas: Teachable Machine. TensorFlow. OpenCV. Anaconda e VScode. 
+- Ferramentas Utilizadas: [Teachable Machine]. TensorFlow. OpenCV. Anaconda e VScode. 
 
 
