@@ -1,7 +1,7 @@
 # Proc-Img-e-Visao-Comp
 
 ## Descrição do Projeto:
-Este projeto usa um modelo treinado no [Teachable Machine](https://teachablemachine.withgoogle.com/) para classificar imagens em tempo real capturadas pela webcam.  
+Este projeto usa um modelo treinado no Teachable Machine <https://teachablemachine.withgoogle.com/>, para classificar imagens em tempo real capturadas pela webcam.  
 Ele utiliza Anaconda, Jupyter Notebook, VisualCode, OpenCV e Keras para realizar a previsão com base nas imagens.  
 Aplicações incluem identificação de objetos, lixo reciclável, gestos, entre outros.
 
