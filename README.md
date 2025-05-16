@@ -24,10 +24,10 @@ Aplicações incluem identificação de objetos, lixo reciclável, gestos, entre
    2. Tente valores como 0, 1, 2, dependendo da câmera disponível.
 
 ## Créditos:
-Instituição: Universidade Federal do Oeste do Pará (UFOPA)
-Curso: Sistemas de Informação
-Disciplina: Processamento de Imagens
-Docente: Danilo Azevedo Figueiredo: <http://lattes.cnpq.br/9122429239132988>
-Ferramentas Utilizadas: Teachable Machine. TensorFlow. OpenCV. Anaconda e VScode. 
+- Instituição: Universidade Federal do Oeste do Pará (UFOPA)
+- Curso: Sistemas de Informação
+- Disciplina: Processamento de Imagens
+- Docente: Danilo Azevedo Figueiredo: <http://lattes.cnpq.br/9122429239132988>
+- Ferramentas Utilizadas: Teachable Machine. TensorFlow. OpenCV. Anaconda e VScode. 
 
 
