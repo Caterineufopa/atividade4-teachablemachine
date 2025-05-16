@@ -25,9 +25,9 @@ Aplicações incluem identificação de objetos, lixo reciclável, gestos, entre
 
 ## Créditos:
 - Instituição: Universidade Federal do Oeste do Pará (UFOPA)
-- Curso: Sistemas de Informação
+- Curso: Sistemas de Informação - BSI(2024)
 - Disciplina: Processamento de Imagens
 - Docente: Danilo Azevedo Figueiredo: <http://lattes.cnpq.br/9122429239132988>
-- Ferramentas Utilizadas: [Teachable Machine]. TensorFlow. OpenCV. Anaconda e VScode. 
+- Ferramentas Utilizadas: Teachable Machine, Anaconda, Jupyter Notebook, VisualCode, OpenCV e Keras.
 
 
