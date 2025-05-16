@@ -7,12 +7,12 @@ Aplicações incluem identificação de objetos, lixo reciclável, gestos, entre
 
 ## Instruções de Instalação:
 3. Treine e exporte seu modelo no Teachable Machine:
-   - Vá para Teachable Machine: <https://teachablemachine.withgoogle.com/>;
-   - Treine um modelo de imagem;
-   - Clique em "Export Model" → Escolha "TensorFlow" → Selecione "Keras";
-   - Baixe os arquivos: keras_model.h5 e labels.txt;
-   - Coloque esses dois arquivos na mesma pasta do código Pynb;
-   - depois crie uma pasta onde todos os arquivos estejam juntos.
+ - Vá para Teachable Machine: <https://teachablemachine.withgoogle.com/>;
+ - Treine um modelo de imagem;
+ - Clique em "Export Model" → Escolha "TensorFlow" → Selecione "Keras";
+ - Baixe os arquivos: keras_model.h5 e labels.txt;
+ - Coloque esses dois arquivos na mesma pasta do código Pynb;
+ - depois crie uma pasta onde todos os arquivos estejam juntos.
 
 ## Instruções de Uso:
 
